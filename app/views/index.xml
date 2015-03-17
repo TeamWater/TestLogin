@@ -1,0 +1,6 @@
+<Alloy>
+    <Window>
+         <!-- Use the Alloy.Globals.Facebook namespace to create a Facebook module login button -->
+        <LoginButton id="fbBtn" ns="Alloy.Globals.fbModule" top="100"/>
+    </Window>
+</Alloy>

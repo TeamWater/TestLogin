@@ -7,7 +7,7 @@
     <version>1.0</version>
     <publisher>Mayra</publisher>
     <url>http://www.wtamu.edu</url>
-    <description/>
+    <description>undefined</description>
     <copyright>2015 by Mayra</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
@@ -16,7 +16,7 @@
     <guid>d5623583-c5d3-4833-bf4f-5721d61faba2</guid>
     <property name="ti.ui.defaultunit" type="string">dp</property>
     <ios>
-    	 <property name="ti.facebook.appid">1580469318879903</property>
+        <property name="ti.facebook.appid">1580469318879903</property>
         <plist>
             <dict>
                 <key>UISupportedInterfaceOrientations~iphone</key>
@@ -55,7 +55,6 @@
         <!-- Add the appropriate line(s) to your modules section -->
         <module platform="android">facebook</module>
         <module platform="iphone">facebook</module>
-        
     </modules>
     <deployment-targets>
         <target device="android">true</target>
